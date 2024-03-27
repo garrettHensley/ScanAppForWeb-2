@@ -1,4 +1,6 @@
 # ScanAppForWeb
+Uses NTwain & Fleck
+
 This application can scan any document via scanner from web browser. Simply it's a web application twain integration. It provides solutions for
   - Twain Scanner for any ASP.NET application (MVC/Web Form)
   - Web Twain Scanner for PHP Application.
