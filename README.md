@@ -3,7 +3,7 @@
 I am creating a major fork of mgriits ScanAppForWeb.
 Reason: I need a Twain Scanner, and am too stubborn to pay for products like Dynamsoft Twain.
 Ive begun by upgrading the project to .NET 8, and will begin to go through each part under the hood to make sure this application is safe, and the best it can be.
-#Contributions are welcome.
+# Contributions are welcome.
 
 Uses NTwain & Fleck
 
