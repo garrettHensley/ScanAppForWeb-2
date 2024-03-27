@@ -1,5 +1,14 @@
 # ScanAppForWeb
+
+I am creating a major fork of mgriits ScanAppForWeb.
+Reason: I need a Twain Scanner, and am too stubborn to pay for products like Dynamsoft Twain.
+Ive begun by upgrading the project to .NET 8, and will begin to go through each part under the hood to make sure this application is safe, and the best it can be.
+#Contributions are welcome.
+
 Uses NTwain & Fleck
+
+
+# Below is the old Readme which may or may not be up to date.
 
 This application can scan any document via scanner from web browser. Simply it's a web application twain integration. It provides solutions for
   - Twain Scanner for any ASP.NET application (MVC/Web Form)
