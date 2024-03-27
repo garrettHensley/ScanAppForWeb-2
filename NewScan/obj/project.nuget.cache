@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjtaTJb9BquH4DHUFTpaAs7YOZrz9jr7LL0lJAzpILof9Ww/XJjDSS3hCklqDbWhr/byy0fx8NNQfI8XgFBezg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\NewScan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghensley\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\ntwain\\3.7.4\\ntwain.3.7.4.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

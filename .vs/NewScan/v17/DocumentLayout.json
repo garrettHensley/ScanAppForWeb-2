@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876F264C-0994-4FA0-BF9A-3F4EDCFF7570}|DemoProjectCore\\DemoProjectCore.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\demoprojectcore\\demoprojectcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{876F264C-0994-4FA0-BF9A-3F4EDCFF7570}|DemoProjectCore\\DemoProjectCore.csproj|solutionrelative:demoprojectcore\\demoprojectcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\newscan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\newscan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\newscan\\newscan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10A4AF7D-B37C-4244-A4E8-4DE7495E51EE}|NewScan\\NewScan.csproj|solutionrelative:newscan\\newscan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DB5523-AD25-4AA0-BF10-2AE716B0AE3A}|DemoProject\\DemoProject.csproj|c:\\users\\ghensley\\source\\repos\\scanappforweb-2\\demoproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 147,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoProjectCore",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\DemoProjectCore\\DemoProjectCore.csproj",
+              "RelativeDocumentMoniker": "DemoProjectCore\\DemoProjectCore.csproj",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\DemoProjectCore\\DemoProjectCore.csproj",
+              "RelativeToolTip": "DemoProjectCore\\DemoProjectCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T13:37:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\index.html",
+              "RelativeDocumentMoniker": "NewScan\\index.html",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\index.html",
+              "RelativeToolTip": "NewScan\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-27T13:36:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Form1.cs",
+              "RelativeDocumentMoniker": "NewScan\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Form1.cs",
+              "RelativeToolTip": "NewScan\\Form1.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAA2wA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:35:27.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NewScan\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Form1.Designer.cs",
+              "RelativeToolTip": "NewScan\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:34:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Form1.cs",
+              "RelativeDocumentMoniker": "NewScan\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Form1.cs [Design]",
+              "RelativeToolTip": "NewScan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:34:47.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewScan",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\NewScan.csproj",
+              "RelativeDocumentMoniker": "NewScan\\NewScan.csproj",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\NewScan.csproj",
+              "RelativeToolTip": "NewScan\\NewScan.csproj",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T13:30:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Program.cs",
+              "RelativeDocumentMoniker": "NewScan\\Program.cs",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\Program.cs",
+              "RelativeToolTip": "NewScan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:32:18.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewScan",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\NewScan.csproj",
+              "RelativeDocumentMoniker": "NewScan\\NewScan.csproj",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\NewScan\\NewScan.csproj",
+              "RelativeToolTip": "NewScan\\NewScan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T13:31:28.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoProject",
+              "DocumentMoniker": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\DemoProject\\DemoProject.csproj",
+              "RelativeDocumentMoniker": "DemoProject\\DemoProject.csproj",
+              "ToolTip": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\DemoProject\\DemoProject.csproj",
+              "RelativeToolTip": "DemoProject\\DemoProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-27T13:31:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

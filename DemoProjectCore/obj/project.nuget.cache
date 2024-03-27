@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYj91qI+ZyiZbBvmg05N64BblwI8QrYC51CxVApFK40VQStFQhcjJnwxRptZog3dwq94ZCMPm7CmO8dtxisrtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghensley\\source\\repos\\ScanAppForWeb-2\\DemoProjectCore\\DemoProjectCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghensley\\.nuget\\packages\\microsoft.aspnetcore.systemwebadapters\\1.3.0\\microsoft.aspnetcore.systemwebadapters.1.3.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\microsoft.aspnetcore.systemwebadapters.abstractions\\1.3.0\\microsoft.aspnetcore.systemwebadapters.abstractions.1.3.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\microsoft.aspnetcore.systemwebadapters.coreservices\\1.3.0\\microsoft.aspnetcore.systemwebadapters.coreservices.1.3.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.runtime.caching\\6.0.0\\system.runtime.caching.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghensley\\.nuget\\packages\\yarp.reverseproxy\\2.0.1\\yarp.reverseproxy.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
