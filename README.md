@@ -6,7 +6,9 @@ Ive begun by upgrading the project to .NET 8, and will begin to go through each 
 # Contributions are welcome.
 
 Uses NTwain & Fleck
+
 [https://github.com/soukoku/ntwain](https://github.com/soukoku/ntwain)
+
 [https://github.com/statianzo/Fleck](https://github.com/statianzo/Fleck)
 
 
